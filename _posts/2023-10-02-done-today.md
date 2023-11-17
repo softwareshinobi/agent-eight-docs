@@ -18,6 +18,10 @@ hidden: false
 
 ---
 
+## in progress
+
+[`troy burney] find a jekyll resume repository
+
 ## agent eight
 
 agent eight github pages up
