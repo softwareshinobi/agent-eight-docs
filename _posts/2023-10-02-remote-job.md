@@ -24,21 +24,22 @@ an active LinkedIn page
 
 an active Facebook page
 
+an active Twitter page
+
 ## human resources / artifact plan
 
 a link portal site
 
-a landing portfolio site
+a landing site
 
 a markdown blog site
 
 a markdown resume site
 
-a markdown about me site
+a slide deck about me
 
 ## technical capability / artifact plan
 
 active GitHub account
 
 active DockerHub account
-
